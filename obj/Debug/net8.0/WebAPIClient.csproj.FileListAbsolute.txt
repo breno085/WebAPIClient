@@ -1,0 +1,14 @@
+/home/brenoacioli/Documents/WebAPIClient/bin/Debug/net8.0/WebAPIClient
+/home/brenoacioli/Documents/WebAPIClient/bin/Debug/net8.0/WebAPIClient.deps.json
+/home/brenoacioli/Documents/WebAPIClient/bin/Debug/net8.0/WebAPIClient.runtimeconfig.json
+/home/brenoacioli/Documents/WebAPIClient/bin/Debug/net8.0/WebAPIClient.dll
+/home/brenoacioli/Documents/WebAPIClient/bin/Debug/net8.0/WebAPIClient.pdb
+/home/brenoacioli/Documents/WebAPIClient/obj/Debug/net8.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/WebAPIClient/obj/Debug/net8.0/WebAPIClient.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/WebAPIClient/obj/Debug/net8.0/WebAPIClient.AssemblyInfo.cs
+/home/brenoacioli/Documents/WebAPIClient/obj/Debug/net8.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/WebAPIClient/obj/Debug/net8.0/WebAPIClient.dll
+/home/brenoacioli/Documents/WebAPIClient/obj/Debug/net8.0/refint/WebAPIClient.dll
+/home/brenoacioli/Documents/WebAPIClient/obj/Debug/net8.0/WebAPIClient.pdb
+/home/brenoacioli/Documents/WebAPIClient/obj/Debug/net8.0/WebAPIClient.genruntimeconfig.cache
+/home/brenoacioli/Documents/WebAPIClient/obj/Debug/net8.0/ref/WebAPIClient.dll
